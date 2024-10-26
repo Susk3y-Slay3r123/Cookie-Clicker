@@ -1,0 +1,12 @@
+{
+	"Name": "Party Button",
+	"ID": "partybutton",
+	"Author": "Comple",
+	"Description": "A bare-bones mod, that just adds a button to toggle party mode",
+	"ModVersion": 1,
+	"GameVersion": 2.031,
+	"Date": "2/15/2022",
+	"Dependencies": ["CCSE"],
+ 	"AllowSteamAchievs": 1,
+	"Disabled": 1
+}
